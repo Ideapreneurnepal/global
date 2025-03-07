@@ -24,3 +24,7 @@
 .table.number-table {
     text-align: end;
 }
+
+.main-sm {
+    padding-top: 0 !important;
+}
